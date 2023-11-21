@@ -1,0 +1,1 @@
+{"mics": [{"receiver_name": "Femi", "receiver_ip": "192.168.8.11", "receiver_type": "SLXD", "receiver_ch": "A", "receiver_x32_ch": "01", "M32 IP": "192.168.8.101"}, {"receiver_name": "Clarol", "receiver_ip": "192.168.8.56", "receiver_type": "SLXD", "receiver_ch": "A", "receiver_x32_ch": "02", "M32 IP": "192.168.8.101"}], "X32_IP": "192.168.8.101", "toggle_state": false}
